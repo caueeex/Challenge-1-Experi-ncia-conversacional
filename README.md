@@ -1,4 +1,4 @@
-# Furiaverse - Plataforma Oficial FURIA Esports
+# Furiaverse - Plataforma FURIA Esports
 
 ![FURIA Logo]
 
