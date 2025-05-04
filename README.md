@@ -62,7 +62,7 @@ Furiaverse é uma plataforma web dedicada à FURIA Esports, oferecendo uma exper
 ### Passo 1: Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/furiaverse.git
+git clone https://github.com/caueeex/Challenge-1-Experi-ncia-conversacional.git
 cd furiaverse
 ```
 
